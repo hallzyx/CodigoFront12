@@ -1,0 +1,40 @@
+a{
+    color:inherit;
+    text-decoration:none;
+
+}
+main header{
+    background-color: #9ECEFA;
+    color: #87119A;
+    display: flex;
+    justify-content: space-between;
+}
+header a{
+    font-size: 34px;
+    font-family: Fascinate;
+    margin: 10px;
+}
+
+
+ nav ul {
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav ul li:hover{
+    color: brown;
+}
+nav ul li{
+    
+    font-size: 17px;
+    margin: 20px;
+    font-weight: 100;
+}
+
+nav ul .sub{
+    text-decoration: underline;
+    font-weight: bolder;
+    
+    
+}
